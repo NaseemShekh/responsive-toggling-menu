@@ -7,4 +7,4 @@
 - On media screen width 767 - On menu selection, corresponding div will be displayed on top of the screen  
 
 # URL Link
-https://naseemshekh20.github.io/responsive-web-page/
+https://naseemshekh20.github.io/responsive-toggling-menu/
